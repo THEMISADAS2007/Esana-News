@@ -1,6 +1,6 @@
 ## 🧐 About <a name = "about"></a>
 
-The unofficial Scrap [Esana]
+The unofficial Scrap [https://i.ibb.co/]
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -31,16 +31,12 @@ var api = new Esana()
 await api.news('98691')
 ```
 
-
+## get news 
 ```ts
-
-## Clear Loop
-
-```ts
-await api.clear_loop()
+await api.news('98691')
 ```
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@ravindu01manoj](https://github.com/ravindu01manoj) - scraped project author
 
-See also the list of [contributors](https://github.com/SL-CODE-LORDS/Esana-News/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SL-CODE-LORDS/Esana-News/contributors) who participated in this project.ipated in this project.
